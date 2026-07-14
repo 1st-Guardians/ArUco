@@ -231,3 +231,196 @@ X connection to :0 broken (explicit kill or server shutdown).
 
 (eom:3308): EOM-WARNING **: 20:59:21.283: Error loading PeasGtk typelib: Typelib file for namespace 'PeasGtk', version '1.0' not found
 
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+Errors from xkbcomp are not fatal to the X server
+00:37:51.568 [ERROR] [xwayland/xwm.c:1920] xcb error: op ChangeWindowAttributes (no minor), code Window (no extension), sequence 158, value 4194306
+xsettingsd: Loaded 19 settings from /home/chaeni/.config/xsettingsd/xsettingsd.conf
+xsettingsd: Set XFixes client disconnect mode (v6.0)
+xsettingsd: Created window 0x800001 on screen 0 with timestamp 2290074
+xsettingsd: Selection _XSETTINGS_S0 is owned by 0x0
+xsettingsd: Took ownership of selection _XSETTINGS_S0
+00:37:52.435 [ERROR] [../src/view.c:1758] view has no last placement info
+00:38:07.114 [ERROR] [xwayland/xwm.c:1920] xcb error: op ConfigureWindow (no minor), code Window (no extension), sequence 235, value 4194314
+00:38:07.114 [ERROR] [xwayland/xwm.c:1920] xcb error: op ChangeProperty (no minor), code Window (no extension), sequence 238, value 4194314
+00:38:07.117 [ERROR] [xwayland/xwm.c:1920] xcb error: op ConfigureWindow (no minor), code Window (no extension), sequence 240, value 4194314
+00:38:07.117 [ERROR] [xwayland/xwm.c:1920] xcb error: op ChangeProperty (no minor), code Window (no extension), sequence 244, value 4194314
+00:38:07.117 [ERROR] [xwayland/xwm.c:1920] xcb error: op DeleteProperty (no minor), code Window (no extension), sequence 245, value 4194314
+00:38:07.117 [ERROR] [xwayland/xwm.c:1920] xcb error: op ChangeProperty (no minor), code Window (no extension), sequence 247, value 4194314
+00:38:07.117 [ERROR] [xwayland/xwm.c:1920] xcb error: op DeleteProperty (no minor), code Window (no extension), sequence 248, value 4194314
+X connection to :0 broken (explicit kill or server shutdown).
+
+(eom:3491): EOM-WARNING **: 21:11:01.630: Error loading Peas typelib: Typelib file for namespace 'Peas', version '1.0' not found
+
+
+(eom:3491): EOM-WARNING **: 21:11:01.631: Error loading PeasGtk typelib: Typelib file for namespace 'PeasGtk', version '1.0' not found
+
+
+(eom:3651): EOM-WARNING **: 21:12:08.807: Error loading Peas typelib: Typelib file for namespace 'Peas', version '1.0' not found
+
+
+(eom:3651): EOM-WARNING **: 21:12:08.807: Error loading PeasGtk typelib: Typelib file for namespace 'PeasGtk', version '1.0' not found
+
+
+(eom:3728): EOM-WARNING **: 21:12:36.393: Error loading Peas typelib: Typelib file for namespace 'Peas', version '1.0' not found
+
+
+(eom:3728): EOM-WARNING **: 21:12:36.393: Error loading PeasGtk typelib: Typelib file for namespace 'PeasGtk', version '1.0' not found
+
+
+(eom:3783): EOM-WARNING **: 21:13:00.789: Error loading Peas typelib: Typelib file for namespace 'Peas', version '1.0' not found
+
+
+(eom:3783): EOM-WARNING **: 21:13:00.789: Error loading PeasGtk typelib: Typelib file for namespace 'PeasGtk', version '1.0' not found
+
+
+(eom:3798): EOM-WARNING **: 21:13:06.318: Error loading Peas typelib: Typelib file for namespace 'Peas', version '1.0' not found
+
+
+(eom:3798): EOM-WARNING **: 21:13:06.319: Error loading PeasGtk typelib: Typelib file for namespace 'PeasGtk', version '1.0' not found
+
+
+(eom:3850): EOM-WARNING **: 21:13:25.717: Error loading Peas typelib: Typelib file for namespace 'Peas', version '1.0' not found
+
+
+(eom:3850): EOM-WARNING **: 21:13:25.718: Error loading PeasGtk typelib: Typelib file for namespace 'PeasGtk', version '1.0' not found
+
+
+(eom:3865): EOM-WARNING **: 21:13:31.783: Error loading Peas typelib: Typelib file for namespace 'Peas', version '1.0' not found
+
+
+(eom:3865): EOM-WARNING **: 21:13:31.783: Error loading PeasGtk typelib: Typelib file for namespace 'PeasGtk', version '1.0' not found
+
+
+(eom:3938): EOM-WARNING **: 21:13:58.916: Error loading Peas typelib: Typelib file for namespace 'Peas', version '1.0' not found
+
+
+(eom:3938): EOM-WARNING **: 21:13:58.917: Error loading PeasGtk typelib: Typelib file for namespace 'PeasGtk', version '1.0' not found
+
+
+(eom:3953): EOM-WARNING **: 21:14:06.601: Error loading Peas typelib: Typelib file for namespace 'Peas', version '1.0' not found
+
+
+(eom:3953): EOM-WARNING **: 21:14:06.601: Error loading PeasGtk typelib: Typelib file for namespace 'PeasGtk', version '1.0' not found
+
+
+(eom:4027): EOM-WARNING **: 21:14:34.219: Error loading Peas typelib: Typelib file for namespace 'Peas', version '1.0' not found
+
+
+(eom:4027): EOM-WARNING **: 21:14:34.219: Error loading PeasGtk typelib: Typelib file for namespace 'PeasGtk', version '1.0' not found
+
+
+(eom:4042): EOM-WARNING **: 21:14:40.133: Error loading Peas typelib: Typelib file for namespace 'Peas', version '1.0' not found
+
+
+(eom:4042): EOM-WARNING **: 21:14:40.133: Error loading PeasGtk typelib: Typelib file for namespace 'PeasGtk', version '1.0' not found
+
+
+(eom:4094): EOM-WARNING **: 21:14:59.782: Error loading Peas typelib: Typelib file for namespace 'Peas', version '1.0' not found
+
+
+(eom:4094): EOM-WARNING **: 21:14:59.782: Error loading PeasGtk typelib: Typelib file for namespace 'PeasGtk', version '1.0' not found
+
+
+(eom:4106): EOM-WARNING **: 21:15:01.065: Error loading Peas typelib: Typelib file for namespace 'Peas', version '1.0' not found
+
+
+(eom:4106): EOM-WARNING **: 21:15:01.065: Error loading PeasGtk typelib: Typelib file for namespace 'PeasGtk', version '1.0' not found
+
+
+(eom:4201): EOM-WARNING **: 21:15:32.149: Error loading Peas typelib: Typelib file for namespace 'Peas', version '1.0' not found
+
+
+(eom:4201): EOM-WARNING **: 21:15:32.149: Error loading PeasGtk typelib: Typelib file for namespace 'PeasGtk', version '1.0' not found
+
+
+(eom:4216): EOM-WARNING **: 21:15:40.156: Error loading Peas typelib: Typelib file for namespace 'Peas', version '1.0' not found
+
+
+(eom:4216): EOM-WARNING **: 21:15:40.157: Error loading PeasGtk typelib: Typelib file for namespace 'PeasGtk', version '1.0' not found
+
+
+(eom:4228): EOM-WARNING **: 21:15:45.319: Error loading Peas typelib: Typelib file for namespace 'Peas', version '1.0' not found
+
+
+(eom:4228): EOM-WARNING **: 21:15:45.320: Error loading PeasGtk typelib: Typelib file for namespace 'PeasGtk', version '1.0' not found
+
+
+(eom:4260): EOM-WARNING **: 21:15:58.078: Error loading Peas typelib: Typelib file for namespace 'Peas', version '1.0' not found
+
+
+(eom:4260): EOM-WARNING **: 21:15:58.078: Error loading PeasGtk typelib: Typelib file for namespace 'PeasGtk', version '1.0' not found
+
+
+(eom:4292): EOM-WARNING **: 21:16:11.734: Error loading Peas typelib: Typelib file for namespace 'Peas', version '1.0' not found
+
+
+(eom:4292): EOM-WARNING **: 21:16:11.734: Error loading PeasGtk typelib: Typelib file for namespace 'PeasGtk', version '1.0' not found
+
+
+(eom:4365): EOM-WARNING **: 21:16:39.871: Error loading Peas typelib: Typelib file for namespace 'Peas', version '1.0' not found
+
+
+(eom:4365): EOM-WARNING **: 21:16:39.872: Error loading PeasGtk typelib: Typelib file for namespace 'PeasGtk', version '1.0' not found
+
+
+(eom:4488): EOM-WARNING **: 21:17:24.203: Error loading Peas typelib: Typelib file for namespace 'Peas', version '1.0' not found
+
+
+(eom:4488): EOM-WARNING **: 21:17:24.203: Error loading PeasGtk typelib: Typelib file for namespace 'PeasGtk', version '1.0' not found
+
+
+(eom:4566): EOM-WARNING **: 21:17:58.726: Error loading Peas typelib: Typelib file for namespace 'Peas', version '1.0' not found
+
+
+(eom:4566): EOM-WARNING **: 21:17:58.727: Error loading PeasGtk typelib: Typelib file for namespace 'PeasGtk', version '1.0' not found
+
+
+(eom:4641): EOM-WARNING **: 21:18:25.349: Error loading Peas typelib: Typelib file for namespace 'Peas', version '1.0' not found
+
+
+(eom:4641): EOM-WARNING **: 21:18:25.349: Error loading PeasGtk typelib: Typelib file for namespace 'PeasGtk', version '1.0' not found
+
+
+(eom:4696): EOM-WARNING **: 21:18:48.926: Error loading Peas typelib: Typelib file for namespace 'Peas', version '1.0' not found
+
+
+(eom:4696): EOM-WARNING **: 21:18:48.926: Error loading PeasGtk typelib: Typelib file for namespace 'PeasGtk', version '1.0' not found
+
+
+(eom:4752): EOM-WARNING **: 21:19:13.238: Error loading Peas typelib: Typelib file for namespace 'Peas', version '1.0' not found
+
+
+(eom:4752): EOM-WARNING **: 21:19:13.238: Error loading PeasGtk typelib: Typelib file for namespace 'PeasGtk', version '1.0' not found
+
+
+(eom:4787): EOM-WARNING **: 21:19:27.762: Error loading Peas typelib: Typelib file for namespace 'Peas', version '1.0' not found
+
+
+(eom:4787): EOM-WARNING **: 21:19:27.762: Error loading PeasGtk typelib: Typelib file for namespace 'PeasGtk', version '1.0' not found
+
+
+(eom:4824): EOM-WARNING **: 21:19:47.220: Error loading Peas typelib: Typelib file for namespace 'Peas', version '1.0' not found
+
+
+(eom:4824): EOM-WARNING **: 21:19:47.221: Error loading PeasGtk typelib: Typelib file for namespace 'PeasGtk', version '1.0' not found
+
+
+(eom:4856): EOM-WARNING **: 21:19:59.566: Error loading Peas typelib: Typelib file for namespace 'Peas', version '1.0' not found
+
+
+(eom:4856): EOM-WARNING **: 21:19:59.566: Error loading PeasGtk typelib: Typelib file for namespace 'PeasGtk', version '1.0' not found
+
+
+(eom:4868): EOM-WARNING **: 21:20:00.531: Error loading Peas typelib: Typelib file for namespace 'Peas', version '1.0' not found
+
+
+(eom:4868): EOM-WARNING **: 21:20:00.531: Error loading PeasGtk typelib: Typelib file for namespace 'PeasGtk', version '1.0' not found
+
+
+(eom:4899): EOM-WARNING **: 21:20:16.833: Error loading Peas typelib: Typelib file for namespace 'Peas', version '1.0' not found
+
+
+(eom:4899): EOM-WARNING **: 21:20:16.834: Error loading PeasGtk typelib: Typelib file for namespace 'PeasGtk', version '1.0' not found
+
