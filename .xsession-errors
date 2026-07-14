@@ -1,0 +1,233 @@
+Xsession: X session started for chaeni at Tue 14 Jul 20:30:32 KST 2026
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+xrdb: Can't open display ''
+xhost:  unable to open display ""
+dbus-update-activation-environment: setting USER=chaeni
+dbus-update-activation-environment: setting TEXTDOMAIN=pam_chksshpwd
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=wayland
+dbus-update-activation-environment: setting HOME=/home/chaeni
+dbus-update-activation-environment: setting DESKTOP_SESSION=rpd-labwc
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting LOGNAME=chaeni
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting LANG=en_GB.UTF-8
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=rpd-labwc
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm/data/chaeni
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting GDMSESSION=rpd-labwc
+dbus-update-activation-environment: setting NO_AT_BRIDGE=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/chaeni
+00:00:00.487 [ERROR] [../src/config/rcxml.c:1187] <snapping><range> is deprecated. Use <snapping><range inner="" outer=""> instead.
+00:00:00.496 [ERROR] [../src/config/rcxml.c:1258] <windowSwitcher show="" /> is deprecated. Use <windowSwitcher><osd show="" />
+00:00:00.496 [ERROR] [../src/config/rcxml.c:1282] <windowSwitcher allWorkspaces="" /> is deprecated. Use <action name="NextWindow" workspace=""> instead.
+no profile matched
+pgrep: pattern that searches for process name longer than 15 characters will result in zero matches
+Try `pgrep -f' option to match against the complete command line.
+pgrep: pattern that searches for process name longer than 15 characters will result in zero matches
+Try `pgrep -f' option to match against the complete command line.
+Monitoring Wayland compositor socket: /run/user/1000/wayland-0
+Connected to Wayland compositor
+Waiting for Wayland compositor to close...
+
+(polkit-mate-authentication-agent-1:1524): GLib-CRITICAL **: 20:30:39.122: g_variant_new_string: assertion 'string != NULL' failed
+
+(polkit-mate-authentication-agent-1:1524): polkit-mate-1-WARNING **: 20:30:39.124: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+** Message: 20:30:40.354: batt: battery 0 not found
+** Message: 20:30:40.673: up: Checking for updates
+** Message: 20:30:44.673: up: Cache updated - comparing versions
+** Message: 20:30:51.967: up: Check complete - 117 updates available
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+Errors from xkbcomp are not fatal to the X server
+00:04:00.743 [ERROR] [xwayland/xwm.c:1920] xcb error: op ChangeWindowAttributes (no minor), code Window (no extension), sequence 158, value 4194306
+xsettingsd: Loaded 19 settings from /home/chaeni/.config/xsettingsd/xsettingsd.conf
+xsettingsd: Set XFixes client disconnect mode (v6.0)
+xsettingsd: Created window 0x800001 on screen 0 with timestamp 259011
+xsettingsd: Selection _XSETTINGS_S0 is owned by 0x0
+xsettingsd: Took ownership of selection _XSETTINGS_S0
+00:04:01.754 [ERROR] [../src/view.c:1758] view has no last placement info
+00:10:10.970 [ERROR] [xwayland/xwm.c:1920] xcb error: op ConfigureWindow (no minor), code Window (no extension), sequence 226, value 4194314
+00:10:10.970 [ERROR] [xwayland/xwm.c:1920] xcb error: op ChangeProperty (no minor), code Window (no extension), sequence 229, value 4194314
+00:10:10.976 [ERROR] [xwayland/xwm.c:1920] xcb error: op ConfigureWindow (no minor), code Window (no extension), sequence 231, value 4194314
+00:10:10.977 [ERROR] [xwayland/xwm.c:1920] xcb error: op ChangeProperty (no minor), code Window (no extension), sequence 234, value 4194314
+00:10:10.977 [ERROR] [xwayland/xwm.c:1920] xcb error: op DeleteProperty (no minor), code Window (no extension), sequence 235, value 4194314
+00:10:10.977 [ERROR] [xwayland/xwm.c:1920] xcb error: op ChangeProperty (no minor), code Window (no extension), sequence 237, value 4194314
+00:10:10.977 [ERROR] [xwayland/xwm.c:1920] xcb error: op DeleteProperty (no minor), code Window (no extension), sequence 238, value 4194314
+X connection to :0 broken (explicit kill or server shutdown).
+
+(eom:2330): EOM-WARNING **: 20:45:11.353: Error loading Peas typelib: Typelib file for namespace 'Peas', version '1.0' not found
+
+
+(eom:2330): EOM-WARNING **: 20:45:11.353: Error loading PeasGtk typelib: Typelib file for namespace 'PeasGtk', version '1.0' not found
+
+
+(eom:2375): EOM-WARNING **: 20:45:38.572: Error loading Peas typelib: Typelib file for namespace 'Peas', version '1.0' not found
+
+
+(eom:2375): EOM-WARNING **: 20:45:38.572: Error loading PeasGtk typelib: Typelib file for namespace 'PeasGtk', version '1.0' not found
+
+
+(eom:2390): EOM-WARNING **: 20:45:43.372: Error loading Peas typelib: Typelib file for namespace 'Peas', version '1.0' not found
+
+
+(eom:2390): EOM-WARNING **: 20:45:43.372: Error loading PeasGtk typelib: Typelib file for namespace 'PeasGtk', version '1.0' not found
+
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+Errors from xkbcomp are not fatal to the X server
+00:16:27.618 [ERROR] [xwayland/xwm.c:1920] xcb error: op ChangeWindowAttributes (no minor), code Window (no extension), sequence 158, value 4194306
+xsettingsd: Loaded 19 settings from /home/chaeni/.config/xsettingsd/xsettingsd.conf
+xsettingsd: Set XFixes client disconnect mode (v6.0)
+xsettingsd: Created window 0x800001 on screen 0 with timestamp 1006125
+xsettingsd: Selection _XSETTINGS_S0 is owned by 0x0
+xsettingsd: Took ownership of selection _XSETTINGS_S0
+00:16:28.444 [ERROR] [../src/view.c:1758] view has no last placement info
+00:16:42.066 [ERROR] [xwayland/xwm.c:1410] Failed to get window property
+00:16:42.072 [ERROR] [xwayland/xwm.c:1920] xcb error: op ConfigureWindow (no minor), code Window (no extension), sequence 230, value 4194314
+00:16:42.072 [ERROR] [xwayland/xwm.c:1920] xcb error: op ChangeProperty (no minor), code Window (no extension), sequence 234, value 4194314
+00:16:42.072 [ERROR] [xwayland/xwm.c:1920] xcb error: op DeleteProperty (no minor), code Window (no extension), sequence 235, value 4194314
+00:16:42.072 [ERROR] [xwayland/xwm.c:1920] xcb error: op ChangeProperty (no minor), code Window (no extension), sequence 237, value 4194314
+00:16:42.072 [ERROR] [xwayland/xwm.c:1920] xcb error: op DeleteProperty (no minor), code Window (no extension), sequence 238, value 4194314
+X connection to :0 broken (explicit kill or server shutdown).
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+Errors from xkbcomp are not fatal to the X server
+00:18:18.679 [ERROR] [xwayland/xwm.c:1920] xcb error: op ChangeWindowAttributes (no minor), code Window (no extension), sequence 158, value 4194306
+xsettingsd: Loaded 19 settings from /home/chaeni/.config/xsettingsd/xsettingsd.conf
+xsettingsd: Set XFixes client disconnect mode (v6.0)
+xsettingsd: Created window 0x800001 on screen 0 with timestamp 1117187
+xsettingsd: Selection _XSETTINGS_S0 is owned by 0x0
+xsettingsd: Took ownership of selection _XSETTINGS_S0
+00:18:19.466 [ERROR] [../src/view.c:1758] view has no last placement info
+00:18:46.524 [ERROR] [xwayland/xwm.c:1920] xcb error: op ConfigureWindow (no minor), code Window (no extension), sequence 228, value 4194314
+00:18:46.525 [ERROR] [xwayland/xwm.c:1920] xcb error: op ChangeProperty (no minor), code Window (no extension), sequence 231, value 4194314
+00:18:46.552 [ERROR] [xwayland/xwm.c:1920] xcb error: op ConfigureWindow (no minor), code Window (no extension), sequence 233, value 4194314
+00:18:46.552 [ERROR] [xwayland/xwm.c:1920] xcb error: op ChangeProperty (no minor), code Window (no extension), sequence 237, value 4194314
+00:18:46.552 [ERROR] [xwayland/xwm.c:1920] xcb error: op DeleteProperty (no minor), code Window (no extension), sequence 238, value 4194314
+00:18:46.552 [ERROR] [xwayland/xwm.c:1920] xcb error: op ChangeProperty (no minor), code Window (no extension), sequence 240, value 4194314
+00:18:46.552 [ERROR] [xwayland/xwm.c:1920] xcb error: op DeleteProperty (no minor), code Window (no extension), sequence 241, value 4194314
+X connection to :0 broken (explicit kill or server shutdown).
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+Errors from xkbcomp are not fatal to the X server
+00:21:22.335 [ERROR] [xwayland/xwm.c:1920] xcb error: op ChangeWindowAttributes (no minor), code Window (no extension), sequence 158, value 4194306
+xsettingsd: Loaded 19 settings from /home/chaeni/.config/xsettingsd/xsettingsd.conf
+xsettingsd: Set XFixes client disconnect mode (v6.0)
+xsettingsd: Created window 0x800001 on screen 0 with timestamp 1300842
+xsettingsd: Selection _XSETTINGS_S0 is owned by 0x0
+xsettingsd: Took ownership of selection _XSETTINGS_S0
+00:21:23.278 [ERROR] [../src/view.c:1758] view has no last placement info
+00:21:52.493 [ERROR] [xwayland/xwm.c:1920] xcb error: op ConfigureWindow (no minor), code Window (no extension), sequence 298, value 4194314
+00:21:52.494 [ERROR] [xwayland/xwm.c:1920] xcb error: op ChangeProperty (no minor), code Window (no extension), sequence 301, value 4194314
+00:21:52.521 [ERROR] [xwayland/xwm.c:1920] xcb error: op ConfigureWindow (no minor), code Window (no extension), sequence 303, value 4194314
+00:21:52.522 [ERROR] [xwayland/xwm.c:1920] xcb error: op ChangeProperty (no minor), code Window (no extension), sequence 307, value 4194314
+00:21:52.522 [ERROR] [xwayland/xwm.c:1920] xcb error: op DeleteProperty (no minor), code Window (no extension), sequence 308, value 4194314
+00:21:52.522 [ERROR] [xwayland/xwm.c:1920] xcb error: op ChangeProperty (no minor), code Window (no extension), sequence 310, value 4194314
+00:21:52.522 [ERROR] [xwayland/xwm.c:1920] xcb error: op DeleteProperty (no minor), code Window (no extension), sequence 311, value 4194314
+X connection to :0 broken (explicit kill or server shutdown).
+
+(eom:3136): EOM-WARNING **: 20:54:02.266: Error loading Peas typelib: Typelib file for namespace 'Peas', version '1.0' not found
+
+
+(eom:3136): EOM-WARNING **: 20:54:02.266: Error loading PeasGtk typelib: Typelib file for namespace 'PeasGtk', version '1.0' not found
+
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+Errors from xkbcomp are not fatal to the X server
+00:23:45.514 [ERROR] [xwayland/xwm.c:1920] xcb error: op ChangeWindowAttributes (no minor), code Window (no extension), sequence 158, value 4194306
+xsettingsd: Loaded 19 settings from /home/chaeni/.config/xsettingsd/xsettingsd.conf
+xsettingsd: Set XFixes client disconnect mode (v6.0)
+xsettingsd: Created window 0x800001 on screen 0 with timestamp 1444024
+xsettingsd: Selection _XSETTINGS_S0 is owned by 0x0
+xsettingsd: Took ownership of selection _XSETTINGS_S0
+00:23:46.653 [ERROR] [../src/view.c:1758] view has no last placement info
+00:23:59.832 [ERROR] [types/wlr_linux_dmabuf_v1.c:1246] Failed to get backend DRM FD
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86KbdInputAssistPrevgrou
+> Warning:          Could not resolve keysym XF86KbdInputAssistNextgrou
+Errors from xkbcomp are not fatal to the X server
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+Errors from xkbcomp are not fatal to the X server
+00:24:14.371 [ERROR] [xwayland/xwm.c:1920] xcb error: op ConfigureWindow (no minor), code Window (no extension), sequence 222, value 4194314
+00:24:14.372 [ERROR] [xwayland/xwm.c:1920] xcb error: op ChangeProperty (no minor), code Window (no extension), sequence 225, value 4194314
+00:24:14.377 [ERROR] [xwayland/xwm.c:1920] xcb error: op ConfigureWindow (no minor), code Window (no extension), sequence 227, value 4194314
+00:24:14.377 [ERROR] [xwayland/xwm.c:1920] xcb error: op ChangeProperty (no minor), code Window (no extension), sequence 231, value 4194314
+00:24:14.377 [ERROR] [xwayland/xwm.c:1920] xcb error: op DeleteProperty (no minor), code Window (no extension), sequence 232, value 4194314
+00:24:14.377 [ERROR] [xwayland/xwm.c:1920] xcb error: op ChangeProperty (no minor), code Window (no extension), sequence 234, value 4194314
+00:24:14.377 [ERROR] [xwayland/xwm.c:1920] xcb error: op DeleteProperty (no minor), code Window (no extension), sequence 235, value 4194314
+X connection to :0 broken (explicit kill or server shutdown).
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+Errors from xkbcomp are not fatal to the X server
+00:25:00.809 [ERROR] [xwayland/xwm.c:1920] xcb error: op ChangeWindowAttributes (no minor), code Window (no extension), sequence 158, value 4194306
+xsettingsd: Loaded 19 settings from /home/chaeni/.config/xsettingsd/xsettingsd.conf
+xsettingsd: Set XFixes client disconnect mode (v6.0)
+xsettingsd: Created window 0x800001 on screen 0 with timestamp 1519312
+xsettingsd: Selection _XSETTINGS_S0 is owned by 0x0
+xsettingsd: Took ownership of selection _XSETTINGS_S0
+00:25:01.774 [ERROR] [../src/view.c:1758] view has no last placement info
+00:25:09.178 [ERROR] [xwayland/xwm.c:1920] xcb error: op ConfigureWindow (no minor), code Window (no extension), sequence 219, value 4194314
+00:25:09.178 [ERROR] [xwayland/xwm.c:1920] xcb error: op ChangeProperty (no minor), code Window (no extension), sequence 222, value 4194314
+00:25:09.179 [ERROR] [xwayland/xwm.c:1920] xcb error: op ConfigureWindow (no minor), code Window (no extension), sequence 224, value 4194314
+00:25:09.179 [ERROR] [xwayland/xwm.c:1920] xcb error: op ChangeProperty (no minor), code Window (no extension), sequence 227, value 4194314
+00:25:09.179 [ERROR] [xwayland/xwm.c:1920] xcb error: op DeleteProperty (no minor), code Window (no extension), sequence 228, value 4194314
+00:25:09.179 [ERROR] [xwayland/xwm.c:1920] xcb error: op ChangeProperty (no minor), code Window (no extension), sequence 230, value 4194314
+00:25:09.180 [ERROR] [xwayland/xwm.c:1920] xcb error: op DeleteProperty (no minor), code Window (no extension), sequence 231, value 4194314
+X connection to :0 broken (explicit kill or server shutdown).
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+Errors from xkbcomp are not fatal to the X server
+00:25:52.443 [ERROR] [xwayland/xwm.c:1920] xcb error: op ChangeWindowAttributes (no minor), code Window (no extension), sequence 158, value 4194306
+xsettingsd: Loaded 19 settings from /home/chaeni/.config/xsettingsd/xsettingsd.conf
+xsettingsd: Set XFixes client disconnect mode (v6.0)
+xsettingsd: Created window 0x800001 on screen 0 with timestamp 1570948
+xsettingsd: Selection _XSETTINGS_S0 is owned by 0x0
+xsettingsd: Took ownership of selection _XSETTINGS_S0
+00:25:53.437 [ERROR] [../src/view.c:1758] view has no last placement info
+00:25:58.900 [ERROR] [xwayland/xwm.c:1920] xcb error: op ConfigureWindow (no minor), code Window (no extension), sequence 218, value 4194314
+00:25:58.900 [ERROR] [xwayland/xwm.c:1920] xcb error: op ChangeProperty (no minor), code Window (no extension), sequence 221, value 4194314
+00:25:58.903 [ERROR] [xwayland/xwm.c:1920] xcb error: op ConfigureWindow (no minor), code Window (no extension), sequence 223, value 4194314
+00:25:58.903 [ERROR] [xwayland/xwm.c:1920] xcb error: op ChangeProperty (no minor), code Window (no extension), sequence 227, value 4194314
+00:25:58.903 [ERROR] [xwayland/xwm.c:1920] xcb error: op DeleteProperty (no minor), code Window (no extension), sequence 228, value 4194314
+00:25:58.903 [ERROR] [xwayland/xwm.c:1920] xcb error: op ChangeProperty (no minor), code Window (no extension), sequence 230, value 4194314
+00:25:58.903 [ERROR] [xwayland/xwm.c:1920] xcb error: op DeleteProperty (no minor), code Window (no extension), sequence 231, value 4194314
+X connection to :0 broken (explicit kill or server shutdown).
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+Errors from xkbcomp are not fatal to the X server
+00:26:11.036 [ERROR] [xwayland/xwm.c:1920] xcb error: op ChangeWindowAttributes (no minor), code Window (no extension), sequence 158, value 4194306
+xsettingsd: Loaded 19 settings from /home/chaeni/.config/xsettingsd/xsettingsd.conf
+xsettingsd: Set XFixes client disconnect mode (v6.0)
+xsettingsd: Created window 0x800001 on screen 0 with timestamp 1589539
+xsettingsd: Selection _XSETTINGS_S0 is owned by 0x0
+xsettingsd: Took ownership of selection _XSETTINGS_S0
+00:26:12.371 [ERROR] [../src/view.c:1758] view has no last placement info
+00:28:22.977 [ERROR] [xwayland/xwm.c:1920] xcb error: op ConfigureWindow (no minor), code Window (no extension), sequence 216, value 4194314
+00:28:22.979 [ERROR] [xwayland/xwm.c:1920] xcb error: op ChangeProperty (no minor), code Window (no extension), sequence 219, value 4194314
+00:28:22.988 [ERROR] [xwayland/xwm.c:1920] xcb error: op ConfigureWindow (no minor), code Window (no extension), sequence 221, value 4194314
+00:28:22.989 [ERROR] [xwayland/xwm.c:1920] xcb error: op ChangeProperty (no minor), code Window (no extension), sequence 224, value 4194314
+00:28:22.989 [ERROR] [xwayland/xwm.c:1920] xcb error: op DeleteProperty (no minor), code Window (no extension), sequence 225, value 4194314
+00:28:22.989 [ERROR] [xwayland/xwm.c:1920] xcb error: op ChangeProperty (no minor), code Window (no extension), sequence 227, value 4194314
+00:28:22.989 [ERROR] [xwayland/xwm.c:1920] xcb error: op DeleteProperty (no minor), code Window (no extension), sequence 228, value 4194314
+X connection to :0 broken (explicit kill or server shutdown).
+
+(eom:3308): EOM-WARNING **: 20:59:21.282: Error loading Peas typelib: Typelib file for namespace 'Peas', version '1.0' not found
+
+
+(eom:3308): EOM-WARNING **: 20:59:21.283: Error loading PeasGtk typelib: Typelib file for namespace 'PeasGtk', version '1.0' not found
+
