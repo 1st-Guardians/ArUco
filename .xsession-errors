@@ -443,3 +443,22 @@ xsettingsd: Took ownership of selection _XSETTINGS_S0
 01:18:24.810 [ERROR] [xwayland/xwm.c:1920] xcb error: op ChangeProperty (no minor), code Window (no extension), sequence 229, value 4194314
 01:18:24.810 [ERROR] [xwayland/xwm.c:1920] xcb error: op DeleteProperty (no minor), code Window (no extension), sequence 230, value 4194314
 X connection to :0 broken (explicit kill or server shutdown).
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+Errors from xkbcomp are not fatal to the X server
+01:23:44.424 [ERROR] [xwayland/xwm.c:1920] xcb error: op ChangeWindowAttributes (no minor), code Window (no extension), sequence 158, value 4194306
+xsettingsd: Loaded 19 settings from /home/chaeni/.config/xsettingsd/xsettingsd.conf
+xsettingsd: Set XFixes client disconnect mode (v6.0)
+xsettingsd: Created window 0x800001 on screen 0 with timestamp 5042927
+xsettingsd: Selection _XSETTINGS_S0 is owned by 0x0
+xsettingsd: Took ownership of selection _XSETTINGS_S0
+01:23:45.295 [ERROR] [../src/view.c:1758] view has no last placement info
+01:24:37.780 [ERROR] [xwayland/xwm.c:1920] xcb error: op ConfigureWindow (no minor), code Window (no extension), sequence 218, value 4194314
+01:24:37.780 [ERROR] [xwayland/xwm.c:1920] xcb error: op ChangeProperty (no minor), code Window (no extension), sequence 221, value 4194314
+01:24:37.785 [ERROR] [xwayland/xwm.c:1920] xcb error: op ConfigureWindow (no minor), code Window (no extension), sequence 223, value 4194314
+01:24:37.785 [ERROR] [xwayland/xwm.c:1920] xcb error: op ChangeProperty (no minor), code Window (no extension), sequence 226, value 4194314
+01:24:37.785 [ERROR] [xwayland/xwm.c:1920] xcb error: op DeleteProperty (no minor), code Window (no extension), sequence 227, value 4194314
+01:24:37.785 [ERROR] [xwayland/xwm.c:1920] xcb error: op ChangeProperty (no minor), code Window (no extension), sequence 229, value 4194314
+01:24:37.785 [ERROR] [xwayland/xwm.c:1920] xcb error: op DeleteProperty (no minor), code Window (no extension), sequence 230, value 4194314
+X connection to :0 broken (explicit kill or server shutdown).
