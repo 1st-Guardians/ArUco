@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DEVICE="/dev/video0"
+DEVICE="/dev/video2"
 SAVE_DIR="$HOME/photos"
 
 mkdir -p "$SAVE_DIR"
